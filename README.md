@@ -12,3 +12,4 @@ This repository contains examples of implementations on various design patterns.
 3. Builder
 
 ### Structural
+1. Decorator
